@@ -1,4 +1,4 @@
-**PumpFun Bundler for Pump.Fun 🚀**
+<h1>****PumpFun Bundler for Pump.Fun 🚀****</h1>
 
 Welcome to the **PumpFun Bundler for the Pump.Fun!** This powerful tool streamlines your token operations with a variety of features, enabling efficient and seamless transactions. Here's a quick guide to all the amazing features:
 
@@ -46,9 +46,6 @@ Create and extend lookup tables in one bundled transaction.
 
 **Contribution**
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
-
-**License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 **Contact**
 For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle)
