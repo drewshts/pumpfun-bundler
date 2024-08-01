@@ -1,0 +1,9 @@
+{
+    "name": "token name",
+    "symbol": "ticker",
+    "description": "description",
+    "filePath": "./metadata/logo.gif",
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+}
