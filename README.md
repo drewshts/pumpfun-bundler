@@ -1,4 +1,4 @@
-<h1>**PumpFun Bundler for Pump.Fun 🚀**</h1>
+<h1>PumpFun Bundler for Pump.Fun 🚀</h1>
 
 Welcome to the **PumpFun Bundler for the Pump.Fun!** This powerful tool streamlines your token operations with a variety of features, enabling efficient and seamless transactions. Here's a quick guide to all the amazing features:
 
