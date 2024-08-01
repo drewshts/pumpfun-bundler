@@ -44,10 +44,10 @@ Create and extend lookup tables in one bundled transaction.
 
 
 
-**Contribution**
+**Contribution** <br>
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
 
-**Contact**
+**Contact** <br>
 For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle)
 
 Happy bundling! 🎉
