@@ -1,0 +1,17 @@
+{
+  "RPC_URL": "",
+  "WS_URL": "",
+  "BLOCK_ENGINE_URL": "frankfurt.mainnet.block-engine.jito.wtf",
+  "JITO_TIP_PK": "96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5",
+  "JITO_TIP_SECRET_KEY": "",
+  "JITO_TIP_AMOUNT": 0.002,
+  "LOOKUP_TABLE_ADDRESS": "",
+  "DELAY": 1000,
+  "SECRET_KEY_PATH": "./dev_wallet.json",
+  "WALLET_BUYERS_FOLDER": "./src/walletBuyers",
+  "SENDER": "",
+  "maxBuySol": "",
+  "minBuySol": "",
+  "devBuySol": "",
+  "LICENSE_KEY": ""
+}
