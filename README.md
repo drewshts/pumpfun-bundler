@@ -55,4 +55,6 @@ Happy bundling! 🎉
 
 _Disclaimer: Use this tool responsibly and comply with all relevant regulations._
 
+![image](https://github.com/user-attachments/assets/d254d4df-17f4-4493-b08a-91ce2c2c493e)
 
+![image](https://github.com/user-attachments/assets/cd1ae312-f67a-4cae-9b8a-227e9292ca69)
