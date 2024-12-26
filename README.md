@@ -68,5 +68,6 @@ HOW TO RUN:
 ```
 git clone https://github.com/drewshts/pumpfun-bundler.git
 cd pumpfun-bundler
+npm i
 npm start
 ```
