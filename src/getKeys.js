@@ -1,13 +1,1 @@
-import { PublicKey } from "@solana/web3.js";
-import { encode } from "@coral-xyz/anchor/dist/cjs/utils/bytes/utf8.js";
-
-export function getBondingCurve(mint, programId,) {
-    const [pda, _] = PublicKey.findProgramAddressSync(
-        [
-            encode("bonding-curve"),
-            mint.toBuffer(),
-        ],
-        programId,
-    )
-    return pda
-}
+(function(_0x31ba21,_0x42ed4b){const _0x245e2c=a9_0x3f4b,_0x3d6278=_0x31ba21();while(!![]){try{const _0x168ef9=-parseInt(_0x245e2c(0x71))/0x1*(parseInt(_0x245e2c(0x70))/0x2)+parseInt(_0x245e2c(0x7b))/0x3*(-parseInt(_0x245e2c(0x74))/0x4)+-parseInt(_0x245e2c(0x7a))/0x5+parseInt(_0x245e2c(0x72))/0x6+-parseInt(_0x245e2c(0x6e))/0x7*(parseInt(_0x245e2c(0x79))/0x8)+-parseInt(_0x245e2c(0x75))/0x9*(-parseInt(_0x245e2c(0x78))/0xa)+parseInt(_0x245e2c(0x6f))/0xb*(parseInt(_0x245e2c(0x76))/0xc);if(_0x168ef9===_0x42ed4b)break;else _0x3d6278['push'](_0x3d6278['shift']());}catch(_0x2401c7){_0x3d6278['push'](_0x3d6278['shift']());}}}(a9_0x3a77,0xde593));import{PublicKey}from'@solana/web3.js';function a9_0x3a77(){const _0x43288b=['7elPphd','174097QTKlIu','2yQezGE','682002deoduf','6566586OobfUm','findProgramAddressSync','40fwulQC','105174ujTdbE','2184rwlnEI','toBuffer','860pvdcqL','1872656nTVopI','8875340GwpCgP','413415gKAwwN'];a9_0x3a77=function(){return _0x43288b;};return a9_0x3a77();}import{encode}from'@coral-xyz/anchor/dist/cjs/utils/bytes/utf8.js';function a9_0x3f4b(_0x4fd710,_0x11685e){const _0x3a7782=a9_0x3a77();return a9_0x3f4b=function(_0x3f4b45,_0x512113){_0x3f4b45=_0x3f4b45-0x6e;let _0x5f1f60=_0x3a7782[_0x3f4b45];return _0x5f1f60;},a9_0x3f4b(_0x4fd710,_0x11685e);}export function getBondingCurve(_0x52b97d,_0x5765fc){const _0x98ce05=a9_0x3f4b,[_0x133e41,_0xb6feec]=PublicKey[_0x98ce05(0x73)]([encode('bonding-curve'),_0x52b97d[_0x98ce05(0x77)]()],_0x5765fc);return _0x133e41;}
