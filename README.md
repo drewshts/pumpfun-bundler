@@ -5,19 +5,25 @@ _RAYDIUM MARKET MAKER AVAILABLE - https://github.com/drewshts/raydium-market-mak
 Welcome to the **PumpFun Bundler for the Pump.Fun!** This powerful tool streamlines your token operations with a variety of features, enabling efficient and seamless transactions. Here's a quick guide to all the amazing features:
 
 **Features**
-🚀 Bundle Launch with 21 Wallets <br>
-Launch your project with transactions bundled in 21 wallets within the same block.
+🚀 Bundle Launch with custom quantity of Wallets <br>
+Launch your project with transactions bundled in custom quantity of wallets within the same block.
 
 👨‍💻 Launch with Dev Only <br>
 Allow the developer to launch transactions exclusively.
 
-🎯 Bundle + Snipe with 21 Wallets (Bypass Photon) <br>
-Combine bundling and sniping with 21 wallets, bypassing Photon for a strategic edge.
+©️ Clone Token Info + Bundle + Stagger <br>
+Clone token information and execute a bundle of transactions with staggered intervals for better timing.
+
+🤹 Bundle + Stagger <br>
+Group multiple transactions and execute buy with delay between all wallets to ensure they bypass every type of bundle detection
+
+🎯 Bundle + Snipe with custom quantity Wallets (Bypass Photon/Bullx) <br>
+Combine bundling and sniping with custom quantity wallets, bypassing Photon for a strategic edge.
 
 💰 Balance Checker <br>
 Quickly check the balance of all your wallets with a single command.
 
-🏗️ Wallet Generator <br>
+🏗 Wallet Generator <br>
 Generate new wallets effortlessly.
 
 💸 Sub Wallet Funding <br>
@@ -38,21 +44,28 @@ Purchase tokens using your sub wallets, supporting both JITO and non-JITO protoc
 💱 Transfer Sell (Transfer and Sell in a Single Bundle by DEV) <br>
 Execute transfer and sell transactions in a single bundle managed by the developer.
 
-🏷️ Single Sell (Dev Will Sell All Its Token Holding) <br>
-The developer can sell all token holdings in one transaction.
+🏷 Single Sell <br>
+The wallet selected can sell tokens holdings in one transaction.
+
+💸 Raydium Sell <br>
+Effortless sell at raydium after migration
 
 📊 Lookup Table Creation and Extend in Single Bundle <br>
 Create and extend lookup tables in one bundled transaction.
 
+💪 Mint Address Automatically ends with "pump" <br>
+No need to manually grind keypair for vanity mint address.
 
 
 **Contribution** <br>
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
 
 **Contact** <br>
-For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) Discord: [GAWBOT](https://discord.gg/ygxgHpFUt2)
+For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) || Discord: [GAWBOT](https://discord.gg/ygxgHpFUt2)
 
 Happy bundling! 🎉
+
+**Affiliate program ENABLED.**
 
 
 _Disclaimer: Use this tool responsibly and comply with all relevant regulations._
