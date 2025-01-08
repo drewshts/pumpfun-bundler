@@ -4,7 +4,7 @@ _RAYDIUM MARKET MAKER AVAILABLE - https://github.com/drewshts/raydium-market-mak
 
 Welcome to the **PumpFun Bundler for the Pump.Fun!** This powerful tool streamlines your token operations with a variety of features, enabling efficient and seamless transactions. Here's a quick guide to all the amazing features:
 
-**Features**
+**Features** <br>
 🚀 Bundle Launch with custom quantity of Wallets <br>
 Launch your project with transactions bundled in custom quantity of wallets within the same block.
 
