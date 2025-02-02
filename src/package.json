@@ -1,7 +1,7 @@
 {
-  "name": "pfbundler",
+  "name": "pf-volume",
   "version": "1.0.0",
-  "description": "AndrewBundles",
+  "description": "P.F Volume Bot",
   "type": "module",
   "main": "main.js",
   "scripts": {

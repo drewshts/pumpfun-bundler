@@ -1,0 +1,77 @@
+First Time Installation Guide
+
+Install NodeJS (https://nodejs.org/en/download/prebuilt-installer)
+
+Run the project (npm start)
+
+
+
+
+_________________________________________________________________________
+
+
+
+
+
+CONFIG.JSON FILE GUIDE
+
+RPC_URL = YOUR RPC URL (HTTP OR HTTPS) 
+WS_URL = YOUR WS URL (WSS OR WS) 
+BLOCK_ENGINE_URL = JITO BLOCKENGINE URL (see list below) 
+JITO_TIP_PK = NO NEED TO EDIT THIS ON CONFIG.JSON
+JITO_TIP_SECRET_KEY = PRIVATE KEY OF SEPARATE WALLET FOR JITO TIP (NOT CONNECTED TO DEV WALLET AND SUB WALLETS)
+JITO_TIP_AMOUNT = JITO TIP AMOUNT (SOL) 
+LOOKUP_TABLE_ADDRESS = NO NEED TO EDIT THIS ON CONFIG.JSON
+DELAY = NO NEED TO EDIT THIS ON CONFIG.JSON
+SECRET_KEY_PATH = NO NEED TO EDIT THIS ON CONFIG.JSON
+WALLET_BUYERS_FOLDER = NO NEED TO EDIT THIS ON CONFIG.JSON
+SENDER = PRIVATE KEY OF FUNDER WALLET (WALLET THAT WILL FUND THE SUB WALLETS and DEV WALLET TO AVOID BUBBLE MAP FUD)
+maxBuySol = Max Buy amount in SOL
+minBuySol = Min Buy amount in SOL
+devBuySol = Dev Buy amount in SOL
+LICENSE_KEY = Your Andrew Bundles License Key
+
+NOTE: DUE TO SLIPPAGE THESE VALUES MAY NOT BE EXACT SO FUND WALLETS WITH EXTRA SOL
+
+
+
+
+_________________________________________________________________________
+
+
+
+
+
+How To Guide
+
+Step 0: Fill up the config.json then Start/Run the script
+
+Step 1: Generate Wallets 
+           Press 2 > Press 2 > yes
+
+Step 2: Fund generated Wallets then Check Balance after
+           Press 2 > Press 3 
+           Press 2 > Press 1 
+
+Step 3: Create LUT (MUST RUN THIS EVERY LAUNCH W NEW WALLETS)
+           Press 4 > Press 1 > Restart the script (Ctrl + C then Fill up the metadata.json on metadata folder and then yarn start)
+
+Step 4: Bundle your launch
+           Press 1 > Press 1 (Then read the prompt)
+           Double Check the prompted metadata/token info > yes/no
+
+THEN YOU'VE SUCCESSFULLY BUNDLED YOUR PF LAUNCH (Copy the mint address prompted and check on Pump.fun)
+
+
+Sell Options:
+
+Step 5: Transfer tokens to dev wallet and dump
+           Press 3 > Press 1 (Then enter mint address)
+
+Step 6: Dump/Sell all tokens
+           Press 3 > Press 8 (Then enter the token CA/mint address)
+
+Step 7: Transfer Sell (Dev Dump)
+           Press 3 > Press 4 (Then enter the token CA/mint address)
+
+THEN YOU'VE SUCCESSFULLY BUNDLED YOUR PF LAUNCH AND DUMPED YOUR TOKENS
