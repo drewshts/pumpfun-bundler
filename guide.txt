@@ -54,7 +54,7 @@ Step 2: Fund generated Wallets then Check Balance after
            Press 2 > Press 1 
 
 Step 3: Create LUT (MUST RUN THIS EVERY LAUNCH W NEW WALLETS)
-           Press 4 > Press 1 > Restart the script (Ctrl + C then Fill up the metadata.json on metadata folder and then yarn start)
+           Press 4 > Press 1 > Restart the script (Ctrl + C then Fill up the metadata.json on metadata folder and then npm start)
 
 Step 4: Bundle your launch
            Press 1 > Press 1 (Then read the prompt)
@@ -65,13 +65,13 @@ THEN YOU'VE SUCCESSFULLY BUNDLED YOUR PF LAUNCH (Copy the mint address prompted 
 
 Sell Options:
 
-Step 5: Transfer tokens to dev wallet and dump
+Step 5: Transfer all tokens from all sub-wallet to dev wallet
            Press 3 > Press 1 (Then enter mint address)
 
-Step 6: Dump/Sell all tokens
+Step 6: Dump/Sell all tokens from all sub-wallet
            Press 3 > Press 8 (Then enter the token CA/mint address)
 
-Step 7: Transfer Sell (Dev Dump)
+Step 7: Transfer Sell (Dev Dump) - it will transfer all tokens from all sub-wallet then dumps by Dev Wallet (in a single bundle)
            Press 3 > Press 4 (Then enter the token CA/mint address)
 
 THEN YOU'VE SUCCESSFULLY BUNDLED YOUR PF LAUNCH AND DUMPED YOUR TOKENS
