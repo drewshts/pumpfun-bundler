@@ -66,14 +66,16 @@ For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbi
 
 Happy bundling! 🎉
 
-**Affiliate program ENABLED.**
+**Affiliate program ENABLED (30% COMM).**
 
 
 _Disclaimer: Use this tool responsibly and comply with all relevant regulations._
 
 ![image](https://github.com/user-attachments/assets/d254d4df-17f4-4493-b08a-91ce2c2c493e)
 
-![image](https://github.com/user-attachments/assets/cd1ae312-f67a-4cae-9b8a-227e9292ca69)
+![image](https://github.com/user-attachments/assets/7356e33a-2918-4969-bdb1-c1f17a8140c6)
+
+![image](https://github.com/user-attachments/assets/7c010989-15ef-4c28-99e1-f82723ad695a)
 
 
 
@@ -82,6 +84,6 @@ HOW TO RUN:
 ```
 git clone https://github.com/drewshts/pumpfun-bundler.git
 cd pumpfun-bundler
-npm i
+npm install
 npm start
 ```
