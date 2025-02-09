@@ -83,7 +83,7 @@ _Disclaimer: Use this tool responsibly and comply with all relevant regulations.
 HOW TO RUN:
 
 ```
-git clone https://github.com/drewshts/pumpfun-bundler.git
+git clone https://github.com/PUMPFUNSCRIPT/pumpfun-bundler.git
 cd pumpfun-bundler
 npm install
 npm start
