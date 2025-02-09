@@ -63,7 +63,7 @@ No need to manually grind keypair for vanity mint address.
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
 
 **Contact** <br>
-For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) || Discord: [GAWBOT](https://discord.gg/ygxgHpFUt2)
+For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) || Discord: [X SCRIPTS](https://discord.gg/ygxgHpFUt2)
 
 Happy bundling! 🎉
 
